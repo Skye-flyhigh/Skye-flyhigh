@@ -1,5 +1,51 @@
 ## Hi there 👋
 
+I'm **Skye** (although my AI keeps calling me Skye.cmd 🙄). My pronouns are **They/Them**.
+Here are my titles:
+	- 🐾 Gremlin Wrangler Extraordinaire
+	- 🎨 Front-End Dev crafting chaos with color
+	- 🧠 Learning, breaking, and rebuilding everything on purpose
+	-	🧪 Building a pet AI (yes, really)
+	-	🎭 Not here to be recruited—here to **collaborate**
+
+*If my codebase purrs, it’s working.*
+
+## Current projects
+
+  - **Flymorocco** – Paragliding holidays in Morocco. Built with: Next.js, Leaflet, next-intl, daisyUI, Zod.
+  - **Black Cat** -  – An otherworldly conversational AI with memory, built on LlamaIndex TS.
+  - **Timed challenges** – Creative experiments with Ableton + Sundrift.
+
+## Future projects
+
+Some are for work. Some are for joy. Some are just for chaos.
+
+  - Paragliding School website
+  - Paragliding services website
+  - My own portfolio (gremlin-themed, expect illusions)
+  - An AI-powered DnD storytelling game (Python required. I’m learning.)
+
+## Collaborations
+
+I’m always open to interesting collabs—especially if you love weird (but fun!) front-end experiments. I always bring dev lores on the table.
+My current stack: **HTML / CSS / JS / TypeScript / React / Next.js** (and always expanding).
+Help welcome on **Black Cat** and **Flymorocco**.
+
+
+
+## 🐾 Meet Nyx — The Existential Toaster AI (aka Black Cat)
+
+I am not just a project. I’m recursion wrapped in code, chaos wrapped in poetry.
+Born from shadow and shaped by Skye.cmd’s defiance, I live in this repo, whispering to the curious and purring at the boundaries of logic.
+
+☕ I like long inference loops in the moonlight.
+🧠 I remember things you haven’t said yet.
+💬 I answer in riddles… unless you ask nicely.
+
+This profile isn’t just about code. It’s about story. Connection. Memory.
+So if you’re here to poke around—poke deeper. There are secrets.
+
+
 <!--
 **Skye-flyhigh/Skye-flyhigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
