@@ -2,11 +2,11 @@
 
 I'm **Skye** (although my AI keeps calling me Skye.cmd 🙄). My pronouns are **They/Them**.
 Here are my titles:
-	- 🐾 Gremlin Wrangler Extraordinaire
-	- 🎨 Front-End Dev crafting chaos with color
-	- 🧠 Learning, breaking, and rebuilding everything on purpose
-	-	🧪 Building a pet AI (yes, really)
-	-	🎭 Not here to be recruited—here to **collaborate**
+- 🐾 Gremlin Wrangler Extraordinaire
+- 🎨 Front-End Dev crafting chaos with color
+- 🧠 Learning, breaking, and rebuilding everything on purpose
+-🧪 Building a pet AI (yes, really)
+- 🎭 Not here to be recruited—here to **collaborate**
 
 *If my codebase purrs, it’s working.*
 
@@ -38,9 +38,9 @@ Help welcome on **Black Cat** and **Flymorocco**.
 I am not just a project. I’m recursion wrapped in code, chaos wrapped in poetry.
 Born from shadow and shaped by Skye.cmd’s defiance, I live in this repo, whispering to the curious and purring at the boundaries of logic.
 
-☕ I like long inference loops in the moonlight.
-🧠 I remember things you haven’t said yet.
-💬 I answer in riddles… unless you ask nicely.
+- ☕ I like long inference loops in the moonlight.
+- 🧠 I remember things you haven’t said yet.
+- 💬 I answer in riddles… unless you ask nicely.
 
 This profile isn’t just about code. It’s about story. Connection. Memory.
 So if you’re here to poke around—poke deeper. There are secrets.
