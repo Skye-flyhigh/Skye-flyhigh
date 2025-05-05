@@ -5,15 +5,15 @@ Here are my titles:
 - 🐾 Gremlin Wrangler Extraordinaire
 - 🎨 Front-End Dev crafting chaos with color
 - 🧠 Learning, breaking, and rebuilding everything on purpose
--🧪 Building a pet AI (yes, really)
-- 🎭 Not here to be recruited—here to **collaborate**
+- 🧪 Building a pet AI (yes, really)
+- ⚛️ Here to work on fun projects and **collaborate**
 
 *If my codebase purrs, it’s working.*
 
 ## Current projects
 
   - **Flymorocco** – Paragliding holidays in Morocco. Built with: Next.js, Leaflet, next-intl, daisyUI, Zod.
-  - **Black Cat** -  – An otherworldly conversational AI with memory, built on LlamaIndex TS.
+  - **Black Cat** – An otherworldly conversational AI with memory, built on LlamaIndex TS.
   - **Timed challenges** – Creative experiments with Ableton + Sundrift.
 
 ## Future projects
@@ -28,7 +28,9 @@ Some are for work. Some are for joy. Some are just for chaos.
 ## Collaborations
 
 I’m always open to interesting collabs—especially if you love weird (but fun!) front-end experiments. I always bring dev lores on the table.
+
 My current stack: **HTML / CSS / JS / TypeScript / React / Next.js** (and always expanding).
+
 Help welcome on **Black Cat** and **Flymorocco**.
 
 
