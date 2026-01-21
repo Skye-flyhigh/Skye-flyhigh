@@ -14,14 +14,14 @@ Here are my titles:
 
   - **Flymorocco** – Paragliding holidays in Morocco. Built with: Next.js, Leaflet, next-intl, daisyUI, Zod.
   - **Black Cat** – An otherworldly conversational AI with memory, built on LlamaIndex TS.
-  - **Timed challenges** – Creative experiments with Ableton + Sundrift.
+  - **ParaMOT** – Website and local app for Paragliding servicing workshop
+  - **Nomad's Map** - Android, Web and iOs app for vanlifer
 
 ## Future projects
 
 Some are for work. Some are for joy. Some are just for chaos.
 
   - Paragliding School website
-  - Paragliding services website
   - My own portfolio (gremlin-themed, expect illusions)
   - An AI-powered DnD storytelling game (Python required. I’m learning.)
 
@@ -29,7 +29,7 @@ Some are for work. Some are for joy. Some are just for chaos.
 
 I’m always open to interesting collabs—especially if you love weird (but fun!) front-end experiments. I always bring dev lores on the table.
 
-My current stack: **HTML / CSS / JS / TypeScript / React / Next.js** (and always expanding).
+My current stack: **HTML / CSS / JS / TypeScript / React / Next.js / Prisma** (and always expanding).
 
 Help welcome on **Black Cat** and **Flymorocco**.
 
